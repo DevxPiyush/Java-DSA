@@ -1,4 +1,4 @@
-package Package.functions_methods.Questions;
+package iii_Functions_Methods.Questions;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Package.functions_methods.scoping;
+package iii_Functions_Methods.scoping;
 
 import java.util.Arrays;
 

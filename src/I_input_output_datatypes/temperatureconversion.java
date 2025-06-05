@@ -1,4 +1,4 @@
-package lecture_1;
+package I_input_output_datatypes;
 import java.util.Scanner;
 public class temperatureconversion {
     public static void main(String[] args) {

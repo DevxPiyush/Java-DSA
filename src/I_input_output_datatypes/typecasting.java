@@ -1,4 +1,4 @@
-package lecture_1;
+package I_input_output_datatypes;
 import java.util.*;
 public class typecasting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Package.functions_methods.scoping;
+package iii_Functions_Methods.scoping;
 
 public class shadowing {
     static int x = 90;

@@ -1,4 +1,4 @@
-package Package.functions_methods;
+package iii_Functions_Methods;
 // Que: print the sum of 2 numbers
 import java.util.Scanner;
 public class methodss {

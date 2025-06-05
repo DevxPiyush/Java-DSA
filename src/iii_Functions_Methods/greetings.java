@@ -1,4 +1,4 @@
-package Package.functions_methods;
+package iii_Functions_Methods;
 
 public class greetings {
     public static void main(String[] args) {

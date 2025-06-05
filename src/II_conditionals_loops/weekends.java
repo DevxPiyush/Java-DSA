@@ -1,3 +1,5 @@
+package II_conditionals_loops;
+
 import java.util.*;
 
 public class weekends {

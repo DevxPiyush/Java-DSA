@@ -1,3 +1,5 @@
+package II_conditionals_loops;
+
 import java.util.Scanner;
 /*Question to check if the input is Lowercase or Uppercase*/
 public class Q2casecheck {

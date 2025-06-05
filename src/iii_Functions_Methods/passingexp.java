@@ -1,4 +1,4 @@
-package Package.functions_methods;
+package iii_Functions_Methods;
 
 public class passingexp {
     public static void main(String[] args) {
