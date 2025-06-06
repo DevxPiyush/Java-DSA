@@ -1,0 +1,7 @@
+Linear Search Algorithm
+iterating every element of the array and hence finding the required item
+given by the user and hence returning the index of the found element.
+Complexity Analysis:
+Best Case : O(1) -> Element found at the first ( 0th ) index
+Worst Case : O(n) -> Element not found
+
