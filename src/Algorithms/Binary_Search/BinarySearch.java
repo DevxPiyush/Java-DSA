@@ -1,5 +1,5 @@
 package Algorithms.Binary_Search;
-
+// https://leetcode.com/problems/binary-search/
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {10,20,30,40,50};
